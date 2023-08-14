@@ -1,0 +1,3 @@
+id: 2, title: кукла, weight: 5.0
+id: 1, title: робот, weight: 3.0
+id: 3, title: юла, weight: 7.0
